@@ -1,0 +1,163 @@
+[2026-11-23 14:03:18] === PigBridge 启动：jar=C:\Users\Tex\Desktop\ServerPlugin\VexView\injection\dist\VexView-Inject.jar options=namespace=auto ===
+[2026-11-23 14:03:18] 已附加到 JVM，jvmti=0000029c2f7ada20（等待 0 ms）
+[2026-11-23 14:03:18] AddCapabilities(retransform+redefine) -> 0
+[2026-11-23 14:03:18] AddCapabilities(all_class_hook，可选) -> 0
+[2026-11-23 14:03:18] 等待 Launch 类加载… 已等待 0 ms
+[2026-11-23 14:03:24] 等待 Launch 类加载… 已等待 5000 ms
+[2026-11-23 14:03:24] Launch.classLoader 为空，改用已加载 Minecraft 类反查
+[2026-11-23 14:03:24] 游戏类加载器来自 ave = 0000029c36c2ce70
+[2026-11-23 14:03:24] NativeBridge 已载入：0000029c36c2cec0
+[2026-11-23 14:03:24] 已把游戏类加载器传给 Java 侧 = 0000029c36c2ce70
+[2026-11-23 14:03:24] 启用 ClassFileLoadHook -> 0
+[2026-11-23 14:03:25]   重变换失败 avt (net.minecraft.client.gui.GuiNewChat) err=62
+[2026-11-23 14:03:25]   重变换成功 avo (net.minecraft.client.gui.GuiIngame)
+[2026-11-23 14:03:25]   重变换成功 bfk (net.minecraft.client.renderer.EntityRenderer)
+[2026-11-23 14:03:25]   重变换成功 ave (net.minecraft.client.Minecraft)
+[2026-11-23 14:03:25]   重变换成功 axu (net.minecraft.client.gui.GuiScreen)
+[2026-11-23 14:03:26] === PigBridge 完成：重变换 4 个目标类 ===
+[2026-11-23 14:06:54] === PigBridge 启动：jar=C:\Users\Tex\Desktop\ServerPlugin\VexView\injection\dist\VexView-Inject.jar options=namespace=auto ===
+[2026-11-23 14:06:54] 已附加到 JVM，jvmti=000002c5f71132f0（等待 0 ms）
+[2026-11-23 14:06:54] AddCapabilities(retransform+redefine) -> 0
+[2026-11-23 14:06:54] AddCapabilities(all_class_hook，可选) -> 0
+[2026-11-23 14:06:54] 等待 Launch 类加载… 已等待 0 ms
+[2026-11-23 14:06:59] 等待 Launch 类加载… 已等待 5000 ms
+[2026-11-23 14:07:00] Launch.classLoader 为空，改用已加载 Minecraft 类反查
+[2026-11-23 14:07:00] 游戏类加载器来自 ave = 000002c5f9e90c08
+[2026-11-23 14:07:00] NativeBridge 已载入：000002c5f9e90c58
+[2026-11-23 14:07:00] 已把游戏类加载器传给 Java 侧 = 000002c5f9e90c08
+[2026-11-23 14:07:00] 启用 ClassFileLoadHook -> 0
+[2026-11-23 14:07:00]   重变换失败 avt (net.minecraft.client.gui.GuiNewChat) err=62
+[2026-11-23 14:07:00]   重变换成功 avo (net.minecraft.client.gui.GuiIngame)
+[2026-11-23 14:07:00]   重变换成功 bfk (net.minecraft.client.renderer.EntityRenderer)
+[2026-11-23 14:07:01]   重变换成功 ave (net.minecraft.client.Minecraft)
+[2026-11-23 14:07:01]   重变换成功 axu (net.minecraft.client.gui.GuiScreen)
+[2026-11-23 14:07:01] === PigBridge 完成：重变换 4 个目标类 ===
+[2026-11-23 14:12:12] === PigBridge 启动：jar=C:\Users\Tex\Desktop\ServerPlugin\VexView\injection\dist\VexView-Inject.jar options=namespace=auto ===
+[2026-11-23 14:12:12] 已附加到 JVM，jvmti=0000013d8c3108e0（等待 0 ms）
+[2026-11-23 14:12:12] AddCapabilities(retransform+redefine) -> 0
+[2026-11-23 14:12:12] AddCapabilities(all_class_hook，可选) -> 0
+[2026-11-23 14:12:12] 等待 Launch 类加载… 已等待 0 ms
+[2026-11-23 14:12:18] 等待 Launch 类加载… 已等待 5000 ms
+[2026-11-23 14:12:18] Launch.classLoader 为空，改用已加载 Minecraft 类反查
+[2026-11-23 14:12:18] 游戏类加载器来自 net.minecraft.client.Minecraft = 0000013dd719bb18
+[2026-11-23 14:12:18] NativeBridge 已载入：0000013dd719bb68
+[2026-11-23 14:12:18] 已把游戏类加载器传给 Java 侧 = 0000013dd719bb18
+[2026-11-23 14:12:18] 启用 ClassFileLoadHook -> 0
+[2026-11-23 14:12:18]   重变换失败 net/minecraft/client/gui/GuiNewChat (net.minecraft.client.gui.GuiNewChat) err=62
+[2026-11-23 14:12:18]   重变换成功 net/minecraft/client/gui/GuiIngame (net.minecraft.client.gui.GuiIngame)
+[2026-11-23 14:12:19]   重变换成功 net/minecraft/client/renderer/EntityRenderer (net.minecraft.client.renderer.EntityRenderer)
+[2026-11-23 14:12:19]   重变换成功 net/minecraft/client/gui/GuiScreen (net.minecraft.client.gui.GuiScreen)
+[2026-11-23 14:12:19]   重变换失败 net/minecraft/client/Minecraft (net.minecraft.client.Minecraft) err=62
+[2026-11-23 14:12:19]   重变换失败 net/minecraft/client/network/NetHandlerPlayClient (net.minecraft.client.network.NetHandlerPlayClient) err=62
+[2026-11-23 14:12:19] === PigBridge 完成：重变换 3 个目标类 ===
+[2026-11-23 14:59:37] === PigBridge 启动：jar=C:\Users\Tex\Desktop\ServerPlugin\VexView\injection\dist\VexView-Inject.jar options=namespace=auto ===
+[2026-11-23 14:59:37] 已附加到 JVM，jvmti=000001f5f76468d0（等待 0 ms）
+[2026-11-23 14:59:37] AddCapabilities(retransform+redefine) -> 0
+[2026-11-23 14:59:37] AddCapabilities(all_class_hook，可选) -> 0
+[2026-11-23 14:59:37] 等待 Launch 类加载… 已等待 0 ms
+[2026-11-23 14:59:42] 等待 Launch 类加载… 已等待 5000 ms
+[2026-11-23 14:59:42] Launch.classLoader 为空，改用已加载 Minecraft 类反查
+[2026-11-23 14:59:42] 游戏类加载器来自 ave = 000001f5f81eda30
+[2026-11-23 14:59:42] NativeBridge 已载入：000001f5f81eda80
+[2026-11-23 14:59:42] 已把游戏类加载器传给 Java 侧 = 000001f5f81eda30
+[2026-11-23 14:59:43] 启用 ClassFileLoadHook -> 0
+[2026-11-23 14:59:43]   重变换成功 bcy (net.minecraft.client.network.NetHandlerPlayClient)
+[2026-11-23 14:59:43]   重变换失败 avt (net.minecraft.client.gui.GuiNewChat) err=62
+[2026-11-23 14:59:43]   重变换成功 avo (net.minecraft.client.gui.GuiIngame)
+[2026-11-23 14:59:43]   重变换成功 bfk (net.minecraft.client.renderer.EntityRenderer)
+[2026-11-23 14:59:44]   重变换成功 ave (net.minecraft.client.Minecraft)
+[2026-11-23 14:59:44]   重变换成功 axu (net.minecraft.client.gui.GuiScreen)
+[2026-11-23 14:59:44] === PigBridge 完成：重变换 5 个目标类 ===
+[2026-11-23 15:10:33] === PigBridge 启动：jar=C:\Users\Tex\Desktop\ServerPlugin\VexView\injection\dist\VexView-Inject.jar options=namespace=auto ===
+[2026-11-23 15:10:33] 已附加到 JVM，jvmti=000001e0b77b4ce0（等待 0 ms）
+[2026-11-23 15:10:33] AddCapabilities(retransform+redefine) -> 0
+[2026-11-23 15:10:33] AddCapabilities(all_class_hook，可选) -> 0
+[2026-11-23 15:10:33] 等待 Launch 类加载… 已等待 0 ms
+[2026-11-23 15:10:38] 等待 Launch 类加载… 已等待 5000 ms
+[2026-11-23 15:10:38] Launch.classLoader 为空，改用已加载 Minecraft 类反查
+[2026-11-23 15:10:38] 游戏类加载器来自 ave = 000001e0b8ff1380
+[2026-11-23 15:10:38] NativeBridge 已载入：000001e0b8fef890
+[2026-11-23 15:10:38] 已把游戏类加载器传给 Java 侧 = 000001e0b8ff1380
+[2026-11-23 15:10:39] 启用 ClassFileLoadHook -> 0
+[2026-11-23 15:10:39]   重变换成功 bcy (net.minecraft.client.network.NetHandlerPlayClient)
+[2026-11-23 15:10:39]   重变换失败 avt (net.minecraft.client.gui.GuiNewChat) err=62
+[2026-11-23 15:10:39]   重变换成功 avo (net.minecraft.client.gui.GuiIngame)
+[2026-11-23 15:10:39]   重变换成功 bfk (net.minecraft.client.renderer.EntityRenderer)
+[2026-11-23 15:10:40]   重变换成功 ave (net.minecraft.client.Minecraft)
+[2026-11-23 15:10:40]   重变换成功 axu (net.minecraft.client.gui.GuiScreen)
+[2026-11-23 15:10:40] === PigBridge 完成：重变换 5 个目标类 ===
+[2026-11-23 19:53:59] === PigBridge 启动：jar=C:\Users\Tex\Desktop\ServerPlugin\VexView\injection\dist\VexView-Inject.jar options=namespace=auto ===
+[2026-11-23 19:53:59] 已附加到 JVM，jvmti=000001ff8f580120（等待 0 ms）
+[2026-11-23 19:53:59] AddCapabilities(retransform+redefine) -> 0
+[2026-11-23 19:53:59] AddCapabilities(all_class_hook，可选) -> 0
+[2026-11-23 19:53:59] 等待 Launch 类加载… 已等待 0 ms
+[2026-11-23 19:54:04] 等待 Launch 类加载… 已等待 5000 ms
+[2026-11-23 19:54:04] Launch.classLoader 为空，改用已加载 Minecraft 类反查
+[2026-11-23 19:54:04] 游戏类加载器来自 ave = 000001ffd2136d28
+[2026-11-23 19:54:04] NativeBridge 已载入：000001ffd2136d78
+[2026-11-23 19:54:04] 已把游戏类加载器传给 Java 侧 = 000001ffd2136d28
+[2026-11-23 19:54:05] 启用 ClassFileLoadHook -> 0
+[2026-11-23 19:54:05]   重变换成功 bcy (net.minecraft.client.network.NetHandlerPlayClient)
+[2026-11-23 19:54:05]   重变换失败 avt (net.minecraft.client.gui.GuiNewChat) err=62
+[2026-11-23 19:54:05]   重变换成功 avo (net.minecraft.client.gui.GuiIngame)
+[2026-11-23 19:54:06]   重变换成功 bfk (net.minecraft.client.renderer.EntityRenderer)
+[2026-11-23 19:54:06]   重变换成功 ave (net.minecraft.client.Minecraft)
+[2026-11-23 19:54:06]   重变换成功 axu (net.minecraft.client.gui.GuiScreen)
+[2026-11-23 19:54:06] === PigBridge 完成：重变换 5 个目标类 ===
+[2026-11-23 21:31:19] === PigBridge 启动：jar=C:\Users\Tex\Desktop\ServerPlugin\VexView\injection\dist\VexView-Inject.jar options=namespace=auto ===
+[2026-11-23 21:31:19] 已附加到 JVM，jvmti=000001d0764e1600（等待 0 ms）
+[2026-11-23 21:31:19] AddCapabilities(retransform+redefine) -> 0
+[2026-11-23 21:31:19] AddCapabilities(all_class_hook，可选) -> 0
+[2026-11-23 21:31:19] 等待 Launch 类加载… 已等待 0 ms
+[2026-11-23 21:31:24] 等待 Launch 类加载… 已等待 5000 ms
+[2026-11-23 21:31:24] Launch.classLoader 为空，改用已加载 Minecraft 类反查
+[2026-11-23 21:31:24] 游戏类加载器来自 ave = 000001d02fa4ac08
+[2026-11-23 21:31:24] NativeBridge 已载入：000001d02fa4ac58
+[2026-11-23 21:31:24] 已把游戏类加载器传给 Java 侧 = 000001d02fa4ac08
+[2026-11-23 21:31:24] 启用 ClassFileLoadHook -> 0
+[2026-11-23 21:31:25]   重变换成功 bcy (net.minecraft.client.network.NetHandlerPlayClient)
+[2026-11-23 21:31:25]   重变换失败 avt (net.minecraft.client.gui.GuiNewChat) err=62
+[2026-11-23 21:31:25]   重变换成功 avo (net.minecraft.client.gui.GuiIngame)
+[2026-11-23 21:31:25]   重变换成功 bfk (net.minecraft.client.renderer.EntityRenderer)
+[2026-11-23 21:31:25]   重变换成功 ayl (net.minecraft.client.gui.inventory.GuiContainer)
+[2026-11-23 21:31:25]   重变换成功 ave (net.minecraft.client.Minecraft)
+[2026-11-23 21:31:26]   重变换成功 axu (net.minecraft.client.gui.GuiScreen)
+[2026-11-23 21:31:26] === PigBridge 完成：重变换 6 个目标类 ===
+[2026-11-23 21:36:20] === PigBridge 启动：jar=C:\Users\Tex\Desktop\ServerPlugin\VexView\injection\dist\VexView-Inject.jar options=namespace=auto ===
+[2026-11-23 21:36:20] 已附加到 JVM，jvmti=00000134f65a78e0（等待 0 ms）
+[2026-11-23 21:36:20] AddCapabilities(retransform+redefine) -> 0
+[2026-11-23 21:36:20] AddCapabilities(all_class_hook，可选) -> 0
+[2026-11-23 21:36:20] 等待 Launch 类加载… 已等待 0 ms
+[2026-11-23 21:36:26] 等待 Launch 类加载… 已等待 5000 ms
+[2026-11-23 21:36:26] Launch.classLoader 为空，改用已加载 Minecraft 类反查
+[2026-11-23 21:36:26] 游戏类加载器来自 ave = 000001349c19f9d8
+[2026-11-23 21:36:26] NativeBridge 已载入：000001349c1a0328
+[2026-11-23 21:36:26] 已把游戏类加载器传给 Java 侧 = 000001349c19f9d8
+[2026-11-23 21:36:26] 启用 ClassFileLoadHook -> 0
+[2026-11-23 21:36:26]   重变换成功 bcy (net.minecraft.client.network.NetHandlerPlayClient)
+[2026-11-23 21:36:26]   重变换失败 avt (net.minecraft.client.gui.GuiNewChat) err=62
+[2026-11-23 21:36:27]   重变换成功 avo (net.minecraft.client.gui.GuiIngame)
+[2026-11-23 21:36:27]   重变换成功 bfk (net.minecraft.client.renderer.EntityRenderer)
+[2026-11-23 21:36:27]   重变换成功 ayl (net.minecraft.client.gui.inventory.GuiContainer)
+[2026-11-23 21:36:27]   重变换成功 ave (net.minecraft.client.Minecraft)
+[2026-11-23 21:36:27]   重变换成功 axu (net.minecraft.client.gui.GuiScreen)
+[2026-11-23 21:36:27] === PigBridge 完成：重变换 6 个目标类 ===
+[2026-11-23 21:44:21] === PigBridge 启动：jar=C:\Users\Tex\Desktop\ServerPlugin\VexView\injection\dist\VexView-Inject.jar options=namespace=auto ===
+[2026-11-23 21:44:21] 已附加到 JVM，jvmti=000001ca9753dee0（等待 0 ms）
+[2026-11-23 21:44:21] AddCapabilities(retransform+redefine) -> 0
+[2026-11-23 21:44:21] AddCapabilities(all_class_hook，可选) -> 0
+[2026-11-23 21:44:22] 等待 Launch 类加载… 已等待 0 ms
+[2026-11-23 21:44:27] 等待 Launch 类加载… 已等待 5000 ms
+[2026-11-23 21:44:27] Launch.classLoader 为空，改用已加载 Minecraft 类反查
+[2026-11-23 21:44:27] 游戏类加载器来自 ave = 000001cae271d178
+[2026-11-23 21:44:27] NativeBridge 已载入：000001cae271d1c8
+[2026-11-23 21:44:27] 已把游戏类加载器传给 Java 侧 = 000001cae271d178
+[2026-11-23 21:44:27] 启用 ClassFileLoadHook -> 0
+[2026-11-23 21:44:28]   重变换成功 bcy (net.minecraft.client.network.NetHandlerPlayClient)
+[2026-11-23 21:44:28]   重变换失败 avt (net.minecraft.client.gui.GuiNewChat) err=62
+[2026-11-23 21:44:28]   重变换成功 avo (net.minecraft.client.gui.GuiIngame)
+[2026-11-23 21:44:28]   重变换成功 bfk (net.minecraft.client.renderer.EntityRenderer)
+[2026-11-23 21:44:28]   重变换成功 ayl (net.minecraft.client.gui.inventory.GuiContainer)
+[2026-11-23 21:44:28]   重变换成功 ave (net.minecraft.client.Minecraft)
+[2026-11-23 21:44:28]   重变换成功 axu (net.minecraft.client.gui.GuiScreen)
+[2026-11-23 21:44:28] === PigBridge 完成：重变换 6 个目标类 ===
